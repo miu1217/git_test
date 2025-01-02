@@ -14,21 +14,6 @@
     <img src="https://img.shields.io/badge/Generator%20-%235c86fa.svg?&style=for-the-badge&&logoColor=white"/>
   </a>
 </p> 
-<p align="center"> 
-  <a href="README.md">English</a> 
-  ·
-  <a href="/docs/README_kr.md">한국어</a> 
-  .
-  <a href="/docs/README_fr.md">Français</a>
-  .
-  <a href="/docs/README_de.md">Deutsch</a>
-  .
-  <a href="/docs/README_zh-cn.md">简体中文</a>  
-  .
-  <a href="/docs/README_zh-tw.md">繁體中文</a>
-  .
-  <a href="/docs/README_zh-hk.md">繁體粤语</a>
-</p>
 <br/>
 
 
